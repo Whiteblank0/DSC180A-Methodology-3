@@ -1,3 +1,3 @@
 # DSC180A-Methodology-3
-
-Yaoxi Li
+Yaoxi Li 
+yal149@ucsd.edu
